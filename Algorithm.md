@@ -31,7 +31,7 @@ left = 1 right = 4\
 ###Solution: 
 k = 1;\
 prev = null, cur = 1\
-prev_node = prev, cur_node = cur\
+prev_node = prev = null, cur_node = cur = 1\
 //Reversing nodes\
 1.next = null\
 2.next = 1\
