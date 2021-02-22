@@ -4,7 +4,7 @@
 This project reverse a linked list from left to right position using java with O(n) time complexity and O(1) space complexity.
 
 ### Description of files:
-+ Algorithm.md: It contains the algorithm and dry run of the code.
++ ALGORITHM.md: It contains the algorithm and dry run of the code.
 + src
 	+ Main.java: It contains the code.
 	+ testCases.txt: It contains 10 test cases to check the working of code.
