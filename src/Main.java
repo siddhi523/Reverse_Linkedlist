@@ -70,12 +70,10 @@ public class Main{
 			while(sc.hasNextLine()){
 				LinkedList list = new LinkedList(); // create new linkedlist
 
-				// n = number of elements in linkedlist
-				int n = Integer.parseInt(sc.nextLine());
 				//elements of list 
 				String arr[] = sc.nextLine().split(" ");
 				
-				for(int i = 0; i < n; i++){
+				for(int i = 0; i < arr.length; i++){
 					//add elements in linkedlist
 					int val = Integer.parseInt(arr[i]);
 					list.add(val);
