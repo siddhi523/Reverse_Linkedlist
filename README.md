@@ -14,6 +14,6 @@ This project reverse a linked list from left to right position using java with O
 - Install java from [here](https://www.oracle.com/in/java/technologies/javase-jdk15-downloads.html)
 - Set path variables
 - Open cmd and go to Reverse_Linkedlist\src
-- Type ***javac Main.java*** and press enter
+- Run ***javac Main.java***
 - Run ***java Main***
 
